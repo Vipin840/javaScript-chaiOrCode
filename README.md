@@ -1,2 +1,2 @@
 # javaScript-chaiOrCode
-javaScript practice and learning  for chai or code
+javaScript practice and learning  for chai or code.
